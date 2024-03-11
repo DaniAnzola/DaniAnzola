@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi  👋 I'm daniel-anzola</h2>
 
-<!--
-**DaniAnzola/DaniAnzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+daniel27anzola@gmail.com / https://danielanzola.com/
 
-Here are some ideas to get you started:
+- With more than a year of experience as a frontend developer, collaborating with a team to achieve optimal results and streamline processes for each IT project.
+- Passionate achieves a minimalist, clean and practical visual experience for the user
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Dani = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS,],
+  tools: [Git, Wordpress, Sass, Bootstrap, Java, Kotlin],
+  learning:[Angular, Node],
+  working: "I’m currently working on: Develop New Skills"
+}
+```
